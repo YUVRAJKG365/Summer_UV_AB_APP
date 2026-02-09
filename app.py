@@ -64,8 +64,8 @@ st.markdown("""
 # -----------------------------------
 # Paths
 # -----------------------------------
-MODEL_PATH = r"Summer_UV_AB_APP\radiation_prediction_model.pkl"
-STATS_PATH = r"Summer_UV_AB_APP\train_stats.json"
+MODEL_PATH = r"radiation_prediction_model.pkl"
+STATS_PATH = r"train_stats.json"
 
 # -----------------------------------
 # Load model & stats
